@@ -6,6 +6,6 @@ class Home extends BaseController
 {
     public function index()
     {
-        echo "Hola Ci4";
+        echo "Hola Ci4 ruta automatica";
     }
 }
